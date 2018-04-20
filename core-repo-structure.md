@@ -1,7 +1,7 @@
 EasyEngine Core Repository
 ===
 
-### The core repository contains the cli interface for EasyEngine and the internal api's to facilitate and accomodate the creation and execution of commands. It is built on top of [WP-CLI](https://github.com/wp-cli/wp-cli) and follows the same basic structure.
+The core repository contains the cli interface for EasyEngine and the internal api's to facilitate and accomodate the creation and execution of commands. It is built on top of [WP-CLI](https://github.com/wp-cli/wp-cli) and follows the same basic structure.
 
 1. `bin` folder contains the wrapper shell script to execute EasyEngine.
 2. `ci` folder contains shell scripts to automate the phar building and deploying of the same to the [easyengine-builds](https://github.com/easyengine/easyengine-builds) repository with the help of [travis-ci](https://travis-ci.org/).

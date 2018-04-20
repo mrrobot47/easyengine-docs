@@ -1,7 +1,7 @@
 Build and Release Process
 ===
 
-### Currently EasyEngine v4 is in development stage. Hence the main branch for v4 is [release/v4](https://github.com/easyengine/easyengine/tree/release/v4) and the ongoing development branch is [develop-v4](https://github.com/easyengine/easyengine/tree/develop-v4).
+Currently EasyEngine v4 is in development stage. Hence the main branch for v4 is [release/v4](https://github.com/easyengine/easyengine/tree/release/v4) and the ongoing development branch is [develop-v4](https://github.com/easyengine/easyengine/tree/develop-v4).
 
 The current build and release process uses [travis-ci](https://travis-ci.org/) and docker build triggers.
 
